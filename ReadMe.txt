@@ -3,4 +3,4 @@
 
 2) Ensure you have PHP CURL module activated
 
-3) run the application by running the follwoing URL on your Web Browser http://localhost/asgn/View/Search.html
+3) run the application by running the following URL on your Web Browser http://localhost/yourfoldername/View/Search.html
