@@ -65,7 +65,7 @@ $(document).ready(function () {
                         }
                     }  
     
-                    str+='<br/> <span class="released"><b>Year of Release:</b> '+response.Released+'</span>';
+                    str+='<br/> <span class="released"><b>Year of Release:</b> '+response.Released+'</span><br/>';
                     str+=' <span class="language"><b>Language:</b> '+response.Language+'</span>';
                     str+=' <br/> <span class="production"><b>Production House:</b> '+response.Production+'</span>';
                     str+=' <br/> <span class="rated"><b>Rated:</b> '+response.Rated+'</span>';
